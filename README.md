@@ -59,6 +59,23 @@ The project follows the standard Maven structure. Below is an example of the dir
 
 ![image](https://github.com/user-attachments/assets/076d5b4a-5520-4433-9334-c9780990a596)
 
+## Screenshots
+
+### Endpoint Functionality (Point 2)
+
+![image](https://github.com/user-attachments/assets/be771e90-e9a6-43af-9af1-869a0c0692f6)
+
+
+### Automatic Component Scanning (Point 3)
+
+
+### Parameter Mapping with @RequestParam (Point 4)
+
+![image](https://github.com/user-attachments/assets/6731f1fd-83dd-4940-ba8e-2c5b11159c6e)
+
+![image](https://github.com/user-attachments/assets/e2d82e5d-991c-48bc-ba6c-67818deeb20a)
+
+
 ## Running Tests
 
 The project includes unit tests written with JUnit 5. To run the tests, use the following command:
