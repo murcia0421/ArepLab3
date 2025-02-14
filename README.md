@@ -71,15 +71,15 @@ The project includes unit tests written with JUnit 5. To run the tests, use the 
 
 ## Technologies Used
 
-Java 17
-Apache Maven
-JUnit 5 (for unit testing)
-Reflections (for automatic classpath scanning)
+- Java 17
+- Apache Maven
+- JUnit 5 (for unit testing)
+- Reflections (for automatic classpath scanning)
 
 ## Author
 
-Juan Daniel Murcia
-GitHub: murcia0421
+- Juan Daniel Murcia
+- GitHub: murcia0421
 
 
 
