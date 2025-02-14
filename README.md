@@ -64,6 +64,8 @@ The project follows the standard Maven structure. Below is an example of the dir
 ### Endpoint Functionality (Point 2)
 
 ![image](https://github.com/user-attachments/assets/e2d82e5d-991c-48bc-ba6c-67818deeb20a)
+![image](https://github.com/user-attachments/assets/6731f1fd-83dd-4940-ba8e-2c5b11159c6e)
+
 
 
 ### Automatic Component Scanning (Point 3)
@@ -73,7 +75,8 @@ The project follows the standard Maven structure. Below is an example of the dir
 
 ### Parameter Mapping with @RequestParam (Point 4)
 
-![image](https://github.com/user-attachments/assets/6731f1fd-83dd-4940-ba8e-2c5b11159c6e)
+![image](https://github.com/user-attachments/assets/cb6d93f1-4662-4e59-914d-44dfb5a68ca9)
+
 
 
 
