@@ -26,9 +26,9 @@ Before you begin, ensure that you have the following installed:
 
 1. **Clone the repository:**
 
-   ```bash
-   https://github.com/murcia0421/ArepLab3.git
-   ```
+  ```bash
+  https://github.com/murcia0421/ArepLab3.git
+  ```
 
 2. **Navigate to the project directory:**
    
