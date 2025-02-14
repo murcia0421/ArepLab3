@@ -27,7 +27,8 @@ Before you begin, ensure that you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MateoSebF/Taller3_AREP.git
+   https://github.com/murcia0421/ArepLab3.git
+   ```
 
 2. **Navigate to the project directory:**
    
